@@ -79,7 +79,7 @@ Libraries: pandas, scikit-learn, matplotlib, seaborn
 
 Model: K-Means (Unsupervised Learning)
 
-Data Source: UN SDG / World Bank / City-level sustainability dataset
+Data Source: UN SDG City-level sustainability dataset
 
 🌱 Impact
 
